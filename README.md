@@ -11,3 +11,5 @@ The technologies used within the project for the Front End: React, React-Router,
 
 This project is still a work in progress, and I plan on adding a more functionality in the future. Which includes user 
 authentication, publicly deploying the app, and adding in a 3rd party APi. 
+
+I followed along this guide when setting up the initial portions of the project. https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial-spring-boot-backend-part1.html
